@@ -69,25 +69,26 @@ nav.links a.navbtn:hover,nav.links a.navbtn:focus-visible{color:var(--gold)}
 section{padding:120px 0;border-bottom:1px solid var(--line);scroll-margin-top:80px}
 section:last-of-type{border-bottom:none}
 .eyebrow{font-size:13px;color:var(--gold);letter-spacing:.04em;margin:0 0 14px}
-h2.section-title{font-size:clamp(28px,3.4vw,40px);font-weight:600;letter-spacing:-.01em;margin:0 0 48px;max-width:640px;line-height:1.25}
+h2.section-title{font-size:clamp(19.6px,2.38vw,28px);font-weight:600;letter-spacing:-.01em;margin:0 0 48px;max-width:640px;line-height:1.25}
 .hero{min-height:calc(100vh - 73px);display:flex;align-items:center;justify-content:center;padding:90px 0;border-bottom:1px solid var(--line)}
 .hero-center{display:flex;flex-direction:column;align-items:center;text-align:center;max-width:min(90vw,880px);margin:0 auto}
-.hero h1{font-size:clamp(28px,3.6vw,42px);font-weight:600;line-height:1.4;letter-spacing:-.01em;margin:0 0 34px}
+.hero h1{font-size:clamp(19.6px,2.52vw,29.4px);font-weight:600;line-height:1.4;letter-spacing:-.01em;margin:0 0 34px}
 .hero .role{font-size:15.5px;color:var(--text-soft);font-weight:500;margin:0 0 20px;line-height:1.6}
 .hero .strap{font-size:13px;letter-spacing:.14em;color:var(--gold);text-transform:uppercase}
 .perfil-combo{display:grid;grid-template-columns:1.4fr 1fr;gap:96px;align-items:start}
 .perfil-intro{display:flex;align-items:center;gap:28px;margin-bottom:40px}
 .perfil-intro .eyebrow{margin:0 0 12px}
-.perfil-intro .section-title{margin:0}
+.perfil-intro .section-title{margin:0;font-size:clamp(19.6px,1.98vw,22px)}
 .perfil-photo{width:148px;height:148px;border-radius:50%;overflow:hidden;flex-shrink:0}
 .perfil-photo img{width:100%;height:100%;object-fit:cover;display:block}
-.perfil-copy p{font-size:16.5px;color:var(--text-soft);max-width:62ch;margin:0 0 22px;line-height:1.75;text-align:justify;text-justify:inter-word;hyphens:auto}
-.perfil-copy p:first-child{color:var(--text);font-size:18px}
-.perfil-copy p:last-child{margin-bottom:0;color:var(--text)}
+.perfil-copy p{font-size:16.5px;color:var(--text-soft);max-width:62ch;margin:0 0 22px;line-height:1.75;text-align:justify;text-justify:inter-word;hyphens:none}
+.perfil-copy p:last-child{margin-bottom:0}
 .escala-col .eyebrow{margin-bottom:40px}
 .escala-grid{display:grid;grid-template-columns:1fr 1fr;gap:48px 36px}
 .escala-stat .n{font-size:34px;font-weight:700;color:var(--gold);letter-spacing:-.02em;display:block;margin-bottom:10px;line-height:1}
 .escala-stat .l{font-size:13px;color:var(--text-soft);line-height:1.55}
+.escala-stat .n--text{font-size:24px;white-space:nowrap;display:flex;align-items:flex-end;height:34px}
+@media (max-width:640px){.escala-stat .n--text{font-size:20px}}
 .results-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:1px;background:var(--line);border:1px solid var(--line)}
 .result-card{background:var(--bg);padding:40px 28px}
 .result-card .num{font-size:clamp(30px,3vw,38px);font-weight:700;color:var(--gold);letter-spacing:-.02em;line-height:1;margin-bottom:12px}
@@ -99,7 +100,7 @@ h2.section-title{font-size:clamp(28px,3.4vw,40px);font-weight:600;letter-spacing
 .biz-card{display:block;width:100%;text-align:left;font-family:inherit;color:var(--text);appearance:none;-webkit-appearance:none;background:var(--bg-alt);border:1px solid var(--line);border-radius:4px;padding:30px 26px;cursor:pointer;transition:border-color .2s ease}
 .biz-card:hover,.biz-card:focus-visible{border-color:var(--line-strong)}
 .biz-card .cat{font-size:12.5px;color:var(--text-soft);margin-bottom:18px}
-.biz-card h3{font-size:22px;font-weight:600;color:var(--text);margin:0 0 16px}
+.biz-card h3{font-size:16px;font-weight:600;color:var(--text);margin:0 0 16px}
 .biz-card .metric{font-size:30px;font-weight:700;color:var(--gold);margin-bottom:6px;letter-spacing:-.01em}
 .biz-card .metric-sub{font-size:12.5px;color:var(--text-soft);margin-bottom:20px}
 .biz-card .expand-hint{font-size:12.5px;color:var(--text-soft);display:flex;align-items:center;gap:6px}
@@ -117,8 +118,7 @@ h2.section-title{font-size:clamp(28px,3.4vw,40px);font-weight:600;letter-spacing
 .tl-item:first-child::before{width:14px;height:14px;left:-33.5px;background:var(--gold)}
 .tl-item .phase{font-size:11px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--gold);margin:0 0 8px}
 .tl-item:first-child .phase{font-size:12px}
-.tl-item .role{font-size:18px;font-weight:600;margin:0 0 4px}
-.tl-item:first-child .role{font-size:22px;font-weight:700}
+.tl-item .role{font-size:16px;font-weight:600;margin:0 0 4px}
 .tl-item .meta{font-size:13px;color:var(--text-soft);margin:0 0 10px}
 .tl-item .desc{font-size:14.5px;color:var(--text-soft);max-width:56ch;margin:0}
 .comp-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:1px;background:var(--line);border:1px solid var(--line)}
@@ -127,7 +127,7 @@ h2.section-title{font-size:clamp(28px,3.4vw,40px);font-weight:600;letter-spacing
 .comp-card--lead h3{font-size:16px;font-weight:700}
 .comp-card p{font-size:13.5px;color:var(--text-soft);margin:0;line-height:1.75}
 .closing{padding:200px 0;text-align:center;border-bottom:none}
-.closing h2{font-size:clamp(24px,3vw,32px);font-weight:600;margin:0 0 16px;letter-spacing:-.01em}
+.closing h2{font-size:clamp(16.8px,2.1vw,22.4px);font-weight:600;margin:0 0 16px;letter-spacing:-.01em}
 .closing p{font-size:clamp(14px,1.4vw,16px);color:var(--text-soft);margin:0}
 .contact-actions{display:flex;flex-wrap:wrap;gap:12px;justify-content:center;margin-top:36px}
 .contact-btn{display:inline-block;padding:13px 22px;border:1px solid var(--gold);border-radius:4px;color:var(--text);text-decoration:none;font-size:14.5px;font-weight:500;transition:background .2s,color .2s}
@@ -142,7 +142,7 @@ h2.section-title{font-size:clamp(28px,3.4vw,40px);font-weight:600;letter-spacing
 .reveal{opacity:0;transform:translateY(14px);transition:opacity .6s ease,transform .6s ease}
 .reveal.in{opacity:1;transform:translateY(0)}
 @media (max-width:880px){.perfil-combo{grid-template-columns:1fr;gap:56px}.perfil-intro{flex-direction:column;text-align:center;gap:20px}.escala-grid{grid-template-columns:1fr 1fr}.results-grid{grid-template-columns:1fr 1fr}.biz-grid{grid-template-columns:1fr}.comp-grid{grid-template-columns:1fr}.creation-headline{flex-direction:column;align-items:flex-start;gap:12px}}
-@media (max-width:640px){.perfil-copy p{text-align:left;hyphens:none}.wrap{padding:0 20px}.nav-inner{padding:16px 20px}nav.links{display:none}.menu-toggle{display:inline-flex;align-items:center;justify-content:center}section{padding:80px 0}.hero{padding:110px 0 90px}.hero h1{font-size:clamp(24px,7.2vw,32px)}.perfil-photo{width:128px;height:128px}.results-grid{grid-template-columns:1fr}.escala-grid{grid-template-columns:1fr 1fr}
+@media (max-width:640px){.perfil-copy p{text-align:left;hyphens:none}.wrap{padding:0 20px}.nav-inner{padding:16px 20px}nav.links{display:none}.menu-toggle{display:inline-flex;align-items:center;justify-content:center}section{padding:80px 0}.hero{padding:110px 0 90px}.hero h1{font-size:clamp(16.8px,5.04vw,22.4px)}.perfil-photo{width:128px;height:128px}.results-grid{grid-template-columns:1fr}.escala-grid{grid-template-columns:1fr 1fr}
 nav.links.mobile-open{display:flex;flex-direction:column;position:absolute;top:100%;left:0;right:0;background:var(--bg-alt);border-bottom:1px solid var(--line-strong);padding:10px 20px 18px;gap:2px}
 nav.links.mobile-open button.navbtn,nav.links.mobile-open a.navbtn{text-align:left;padding:12px 4px;width:100%;border-bottom:1px solid var(--line)}
 nav.links.mobile-open button.navbtn:last-child,nav.links.mobile-open a.navbtn:last-child{border-bottom:none}}
@@ -174,9 +174,8 @@ nav.links.mobile-open button.navbtn:last-child,nav.links.mobile-open a.navbtn:la
 
   <section class="hero" id="top">
     <div class="wrap hero-center">
-      <h1>Conecto la estrategia con la ejecución para generar crecimiento rentable</h1>
-      <p class="role">Unidades de Negocio · P&L & EBITDA · Operaciones · Planta Productiva · Desarrollo de Negocio · Gestión de la Producción</p>
-      <p class="strap">Negocio · Estrategia · Ejecución · Resultados</p>
+      <h1>CONECTO LA ESTRATEGIA CON LA EJECUCIÓN Y GENERO CRECIMIENTO RENTABLE</h1>
+      <p class="role">Operaciones E2E | Planta Productiva | P&amp;L y EBITDA | Desarrollo de Negocio B2B | Unidades de Negocio</p>
     </div>
   </section>
 
@@ -185,19 +184,20 @@ nav.links.mobile-open button.navbtn:last-child,nav.links.mobile-open a.navbtn:la
       <div class="perfil-left">
         <div class="perfil-intro reveal">
           <div class="perfil-photo" id="perfilPhoto">
-            <img src="foto-andres.jpg" alt="Andrés Rivera Fuentes" width="148" height="148" decoding="async" onerror="this.onerror=null;this.src='https://media.licdn.com/dms/image/v2/D4D03AQF56BvvV6vvmw/profile-displayphoto-scale_400_400/B4DZ9EaTNMIEAk-/0/1783559174909?e=1792022400&amp;v=beta&amp;t=7LiKXAREBFezmmMomA7JbpvjjsEbiIvXEpHM3asXvdY';">
+            <img src="foto-andres.jpg" alt="Andrés Rivera Fuentes" width="148" height="148" decoding="async" onerror="this.onerror=null;this.src='https://media.licdn.com/dms/image/v2/D4D03AQF56BvvV6vvmw/profile-displayphoto-scale_400_400/B4DZ9EaTNMIEAk-/0/1783559174909?e=1793232000&amp;v=beta&amp;t=LcaNsnhzSvkqKKksOaoerKGoows5rO73MPjpHl8ZBiM';">
           </div>
           <div>
             <p class="eyebrow">Perfil profesional</p>
-            <h2 class="section-title">Desde la gestión integral del negocio hasta la ejecución</h2>
+            <h2 class="section-title">Gestión integral del negocio</h2>
           </div>
         </div>
         <div class="perfil-copy reveal">
-          <p>Soy un ejecutivo con experiencia en dirección integral de negocios industriales, agroindustriales y agrícolas, liderando 6 unidades de negocio y 3 razones sociales, con responsabilidad sobre P&L, EBITDA, presupuesto, flujo de caja, inversiones y resultados, junto a equipos de +100 personas.</p>
-          <p>Integro estrategia, finanzas, operaciones, Supply Chain, desarrollo comercial y cultura organizacional, conectando personas, procesos, indicadores, clientes y proveedores bajo una misma visión de crecimiento rentable y generación de valor.</p>
-          <p>Mi experiencia combina dirección de negocios, desarrollo comercial, finanzas, estrategia y una sólida trayectoria en operaciones, producción y Supply Chain. Esta combinación me permite conectar las decisiones del negocio con su ejecución y sus resultados.</p>
-          <p>He liderado la creación y desarrollo de nuevas unidades de negocio, transformaciones operacionales, desarrollo comercial y proyectos de inversión, convirtiendo oportunidades en iniciativas concretas de crecimiento, eficiencia y rentabilidad.</p>
-          <p>Hoy busco aportar mi experiencia para liderar negocios donde estrategia, operación y resultados deban avanzar en una misma dirección.</p>
+          <p>Dirijo negocios industriales, agroindustriales y agrícolas end-to-end, con autonomía para tomar decisiones comerciales, operacionales y financieras, siendo responsable de los resultados. Administro P&amp;L, EBITDA, presupuestos, flujo de caja, inversiones y Supply Chain, reportando a gerencia general y socios.</p>
+          <p>Conecto el forecast de ventas con la capacidad productiva, los costos y la rentabilidad para decidir dónde crecer y cómo hacerlo sin comprometer los márgenes.</p>
+          <p>Mi experiencia combina dirección de negocios, desarrollo comercial B2B, finanzas, estrategia, operaciones, producción y Supply Chain. Esta visión integral me permite evaluar las oportunidades desde la perspectiva comercial, financiera y operacional.</p>
+          <p>He liderado la creación de nuevas unidades de negocio, transformaciones y reingeniería operacionales y proyectos de inversión. Convirtiendo oportunidades en iniciativas concretas.</p>
+          <p>Desarrollé y negocié oportunidades comerciales con clientes y proveedores nacionales e internacionales, en mercados como Holanda, India, México, Perú y Argentina. Relación directa con organismos reguladores y el cumplimiento de las exigencias normativas.</p>
+          <p>Hoy busco aportar mi experiencia para liderar nuevos proyectos que deban avanzar en una misma dirección.</p>
         </div>
       </div>
 
@@ -207,7 +207,7 @@ nav.links.mobile-open button.navbtn:last-child,nav.links.mobile-open a.navbtn:la
           <div class="escala-stat"><span class="n">6</span><span class="l">Unidades de negocio</span></div>
           <div class="escala-stat"><span class="n">3</span><span class="l">Razones sociales</span></div>
           <div class="escala-stat"><span class="n">P&L</span><span class="l">EBITDA · presupuesto · caja</span></div>
-          <div class="escala-stat"><span class="n">+100</span><span class="l">Personas lideradas</span></div>
+          <div class="escala-stat"><span class="n n--text">End-to-End</span><span class="l">Dirección integral del negocio</span></div>
         </div>
       </div>
     </div>
@@ -274,37 +274,43 @@ nav.links.mobile-open button.navbtn:last-child,nav.links.mobile-open a.navbtn:la
 
   <section class="wrap" id="trayectoria">
     <p class="eyebrow reveal">Trayectoria</p>
-    <h2 class="section-title reveal">Una trayectoria que amplió progresivamente mi alcance de gestión</h2>
+    <h2 class="section-title reveal">Crecimiento y alcance directivo</h2>
     <div class="timeline reveal">
       <div class="tl-item">
         <p class="phase">Dirección integral</p>
-        <p class="role">Gerente de Operaciones, Unidades de Negocio y Planta</p>
-        <p class="meta">Holding Agroindustrial AGROF S.A. · 2020 – 2026</p>
-        <p class="desc">Dirección de la planta productiva y de 6 unidades de negocio y 3 razones sociales, con responsabilidad sobre P&L, EBITDA, CAPEX y desempeño operacional.</p>
+        <p class="role">Gerente de Operaciones, Planta Productiva y Unidades de Negocio</p>
+        <p class="meta">Holding Agroindustrial AGROF S.A. | 2020–2026</p>
+        <p class="desc">Dirección integral de la operación, con autonomía en decisiones comerciales, operacionales y financieras.</p>
       </div>
       <div class="tl-item">
-        <p class="phase">Negocio</p>
-        <p class="role">Gerente de Administración y Finanzas</p>
-        <p class="meta">Holding Agroindustrial AGROF S.A. · 2018 – 2020</p>
-        <p class="desc">Gestión financiera y administrativa integrada a la operación: P&L, flujo de caja, capital de trabajo y financiamiento.</p>
+        <p class="phase">Finanzas y Administración</p>
+        <p class="role">Gerente de Administración, Finanzas y Control de Gestión</p>
+        <p class="meta">Holding Agroindustrial AGROF S.A. | 2018–2020</p>
+        <p class="desc">Control financiero, estructura de costos, flujo de caja, capital de trabajo y financiamiento de inversiones.</p>
       </div>
       <div class="tl-item">
-        <p class="phase">Gestión</p>
-        <p class="role">Subgerente de Planta</p>
-        <p class="meta">Holding Agroindustrial AGROF S.A. · 2016 – 2018</p>
-        <p class="desc">Gestión integral de la operación productiva: capacidad, mantenimiento, activos críticos y equipos multidisciplinarios.</p>
+        <p class="phase">Planta Productiva</p>
+        <p class="role">Subgerente de Planta Productiva</p>
+        <p class="meta">Holding Agroindustrial AGROF S.A. | 2016–2018</p>
+        <p class="desc">Capacidad productiva, eficiencia de planta, mantenimiento, continuidad operacional y mejora continua.</p>
       </div>
       <div class="tl-item">
-        <p class="phase">Gestión</p>
-        <p class="role">Jefe de Producción</p>
-        <p class="meta">Holding Agroindustrial AGROF S.A. · 2014 – 2016</p>
-        <p class="desc">Optimización de flujos y procesos mediante Lean Manufacturing y gestión por indicadores.</p>
+        <p class="phase">Productividad</p>
+        <p class="role">Jefe de Producción y Patio</p>
+        <p class="meta">Holding Agroindustrial AGROF S.A. | 2014–2016</p>
+        <p class="desc">Optimización de procesos, reducción de mermas y mejora de la productividad mediante Lean Manufacturing e indicadores de gestión KPIs.</p>
       </div>
       <div class="tl-item">
-        <p class="phase">Operación</p>
+        <p class="phase">Comercio exterior</p>
         <p class="role">Encargado de Importaciones, Exportaciones y Logística</p>
-        <p class="meta">Holding Agroindustrial AGROF S.A. · 2012 – 2014</p>
-        <p class="desc">Gestión de comercio exterior: proveedores internacionales, navieras y agentes de aduana.</p>
+        <p class="meta">Holding Agroindustrial AGROF S.A. | 2012–2014</p>
+        <p class="desc">Abastecimiento nacional e internacional y coordinación logística con proveedores, navieras y agentes de aduana.</p>
+      </div>
+      <div class="tl-item">
+        <p class="phase">Logística</p>
+        <p class="role">Encargado de Logística y Recaudación</p>
+        <p class="meta">Transportes S&amp;P SPA. | 2010–2012</p>
+        <p class="desc">Optimización de rutas, utilización de flota y distribución para reducir costos operacionales.</p>
       </div>
     </div>
   </section>
@@ -343,15 +349,14 @@ nav.links.mobile-open button.navbtn:last-child,nav.links.mobile-open a.navbtn:la
       </div>
       <div class="comp-card">
         <h3>Negociación & gestión de stakeholders</h3>
-        <p>Negociación de alto impacto · Clientes nacionales e internacionales · Proveedores · Contratistas · Entidades financieras · Bancos · Navieras · Agentes de aduana · Socios estratégicos</p>
+        <p>Negociación de alto impacto · Clientes nacionales e internacionales · Proveedores · Contratistas · Entidades financieras · Bancos · Agentes de aduana · Socios estratégicos</p>
       </div>
     </div>
   </section>
 
   <section class="closing" id="contacto">
     <div class="wrap reveal">
-      <h2>Liderazgo con visión de negocio</h2>
-      <p>Estrategia que se transforma en resultados rentables</p>
+      <h2>Liderazgo y visión de negocio | Estrategia con resultados rentables</h2>
       <div class="contact-actions">
         <a class="contact-btn primary" href="mailto:andres.riverfuentes@gmail.com">✉ andres.riverfuentes@gmail.com</a>
         <a class="contact-btn" href="https://www.linkedin.com/in/andresriverafuentes/" target="_blank" rel="me noopener">in LinkedIn</a>
