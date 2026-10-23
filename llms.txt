@@ -1,14 +1,26 @@
 # Andrés Rivera Fuentes
 
-> Gerente de Operaciones y Gerente de Planta en Chile. Finanzas, P&L y EBITDA y desarrollo comercial B2B en industria y agroindustria.
+> Gerente de Operaciones y Gerente de Planta en Chile. P&L, EBITDA y CAPEX, supply chain, desarrollo comercial B2B y unidades de negocio en industria y agroindustria.
 
-Sitio profesional de Andrés Rivera Fuentes. Dirige negocios end-to-end, con autonomía para tomar decisiones comerciales, operacionales y financieras, y conecta la estrategia con la ejecución para generar crecimiento rentable.
+Sitio profesional de Andrés Rivera Fuentes. Dirige negocios industriales, agroindustriales y agrícolas end-to-end, con autonomía para tomar decisiones comerciales, operacionales y financieras, y conecta la estrategia con la ejecución para generar crecimiento rentable.
+
+## Áreas de experiencia
+
+- Gerencia de operaciones y gerencia de planta: productividad, capacidad instalada, Lean Manufacturing, optimización de procesos, continuidad operacional, calidad e inocuidad (HACCP y BRC).
+- Finanzas y performance: P&L, EBITDA, CAPEX, presupuesto, flujo de caja, capital de trabajo, control de costos y márgenes, evaluación de inversiones.
+- Supply chain: S&OP, planificación de demanda, abastecimiento, compras, inventarios, logística nacional e internacional, comercio exterior.
+- Desarrollo de negocios: creación y desarrollo de unidades de negocio, desarrollo comercial B2B, estrategia comercial, negociación con clientes y proveedores nacionales e internacionales.
+- Data y transformación digital: Power BI, Excel avanzado, SAP, Softland, Business Intelligence, Data-Driven Management.
+
+## Formación
+
+- MBA, Postítulo en Gestión Empresarial y Diplomado en Finanzas y Gestión de Proyectos.
 
 ## Secciones
 
 - [Perfil](https://andresriverfuentes-tech.github.io/#perfil): gestión integral del negocio, alcance del cargo y enfoque de trabajo.
 - [Resultados](https://andresriverfuentes-tech.github.io/#resultados): resultados que definen su gestión.
-- [Creación de negocios](https://andresriverfuentes-tech.github.io/#creacion): desde la formulación de proyectos hasta el resultado.
+- [Creación de negocios](https://andresriverfuentes-tech.github.io/#creacion): tres unidades de negocio creadas desde cero, desde la formulación de proyectos hasta el resultado: cerezas (plantación desde 2021), importación de aceitunas (2020) y sala de sodificado (2020).
 - [Trayectoria](https://andresriverfuentes-tech.github.io/#trayectoria): crecimiento y alcance directivo.
 - [Competencias](https://andresriverfuentes-tech.github.io/#competencias): capacidades ejecutivas.
 - [Contacto](https://andresriverfuentes-tech.github.io/#contacto): formas de contacto.
