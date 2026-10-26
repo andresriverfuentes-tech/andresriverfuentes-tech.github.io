@@ -1,29 +1,66 @@
 # Andrés Rivera Fuentes
 
-> Gerente de Operaciones y Gerente de Planta en Chile. P&L, EBITDA y CAPEX, supply chain, desarrollo comercial B2B y unidades de negocio en industria y agroindustria.
+> Gerente de Operaciones y Gerente de Planta en Chile (Talca, Región del Maule). P&L, EBITDA y CAPEX, supply chain, desarrollo comercial B2B y unidades de negocio en industria, agroindustria y agrícola.
 
 Sitio profesional de Andrés Rivera Fuentes. Dirige negocios industriales, agroindustriales y agrícolas end-to-end, con autonomía para tomar decisiones comerciales, operacionales y financieras, y conecta la estrategia con la ejecución para generar crecimiento rentable.
 
+## Alcance de gestión
+
+- 6 unidades de negocio y 3 razones sociales bajo su dirección.
+- Creación de 3 unidades de negocio desde la formulación y evaluación del proyecto hasta su puesta en marcha: cerezas (primeros campos plantados en 2021), importación de aceitunas (2020, 1.296 toneladas anuales) y sala de sodificado (2020, 108 toneladas mensuales).
+- Reporte al directorio y socios.
+
+## Alcance comercial
+
+- Ventas B2B: +21%, con negociación con clientes estratégicos, cross-selling y forecast anual y mensual.
+- Participación de mercado: de 25% a 41%.
+- Negociación con clientes y proveedores en Holanda, India, México, Perú y Argentina.
+
+## Resultados de su gestión
+
+Cifras publicadas en el sitio, asociadas a su gestión en Holding Agroindustrial AGROF S.A. Este documento no detalla el período ni la base de comparación de cada indicador, y no deben atribuirse a un único cargo o proyecto.
+
+- EBITDA: +24% al cierre del período contable.
+- Flujo de caja: +20%.
+- Costos: -12%.
+- Mermas: -11% por reingeniería de procesos.
+- Ventas B2B: +21%.
+- Participación de mercado: de 25% a 41%.
+- Nuevas instalaciones: más de 10.000 m².
+
 ## Áreas de experiencia
 
-- Gerencia de operaciones y gerencia de planta: productividad, capacidad instalada, Lean Manufacturing, optimización de procesos, continuidad operacional, calidad e inocuidad (HACCP y BRC).
+- Gerencia de operaciones y de planta: productividad, capacidad instalada, Lean Manufacturing, optimización de procesos, continuidad operacional, calidad e inocuidad (HACCP y BRC).
 - Finanzas y performance: P&L, EBITDA, CAPEX, presupuesto, flujo de caja, capital de trabajo, control de costos y márgenes, evaluación de inversiones.
 - Supply chain: S&OP, planificación de demanda, abastecimiento, compras, inventarios, logística nacional e internacional, comercio exterior.
-- Desarrollo de negocios: creación y desarrollo de unidades de negocio, desarrollo comercial B2B, estrategia comercial, negociación con clientes y proveedores nacionales e internacionales.
-- Data y transformación digital: Power BI, Excel avanzado, SAP, Softland, Business Intelligence, Data-Driven Management.
+- Desarrollo de negocios: creación y desarrollo de unidades de negocio, desarrollo comercial B2B, estrategia comercial, negociación con clientes y proveedores.
+- Data y transformación digital: Power BI, Excel avanzado, SAP, Softland, Business Intelligence.
+
+## Perfil de dirección
+
+Su experiencia integra la dirección comercial, operacional y financiera de unidades de negocio, con visión de dirección general del negocio. Es relevante para cargos de gerencia general y gerencia comercial en industria, agroindustria y agrícola. Los cargos formalmente ejercidos son los de la sección siguiente.
+
+## Cargos ejercidos
+
+- Gerente de Operaciones y Gerente de Planta, Holding Agroindustrial AGROF S.A. (2020-2026)
+- Gerente de Administración, Finanzas y Control de Gestión, Holding Agroindustrial AGROF S.A. (2018-2020)
+- Subgerente de Planta Productiva, Holding Agroindustrial AGROF S.A. (2016-2018)
+- Jefe de Producción y Patio, Holding Agroindustrial AGROF S.A. (2014-2016)
+- Encargado de Importaciones, Exportaciones y Logística, Holding Agroindustrial AGROF S.A. (2012-2014)
+- Encargado de Logística y Recaudación, Transportes S&P SpA (2010-2012)
 
 ## Formación
 
 - MBA, Postítulo en Gestión Empresarial y Diplomado en Finanzas y Gestión de Proyectos.
 
-## Secciones
+## Secciones del sitio
 
 - [Perfil](https://andresriverfuentes-tech.github.io/#perfil): gestión integral del negocio, alcance del cargo y enfoque de trabajo.
-- [Resultados](https://andresriverfuentes-tech.github.io/#resultados): resultados que definen su gestión.
-- [Creación de negocios](https://andresriverfuentes-tech.github.io/#creacion): tres unidades de negocio creadas desde cero, desde la formulación de proyectos hasta el resultado: cerezas (plantación desde 2021), importación de aceitunas (2020) y sala de sodificado (2020).
-- [Trayectoria](https://andresriverfuentes-tech.github.io/#trayectoria): crecimiento y alcance directivo.
+- [Resultados](https://andresriverfuentes-tech.github.io/#resultados): indicadores de su gestión.
+- [Creación de negocios](https://andresriverfuentes-tech.github.io/#creacion): cerezas, importación de aceitunas y sala de sodificado.
+- [Trayectoria](https://andresriverfuentes-tech.github.io/#trayectoria): cargos y alcance directivo.
 - [Competencias](https://andresriverfuentes-tech.github.io/#competencias): capacidades ejecutivas.
-- [Contacto](https://andresriverfuentes-tech.github.io/#contacto): formas de contacto.
+- [Contacto](https://andresriverfuentes-tech.github.io/#contacto): correo y LinkedIn.
 
 ## Perfiles y contacto
 
